@@ -1,0 +1,76 @@
+.black{
+  background: black;
+}
+
+.jumbotron{
+  background: url("images/citypic.jpg") center center / cover no-repeat;
+  color: white;
+  height: 350px;
+}
+
+.jumbotron-font{
+  color: white;
+}
+
+#thenavbar .nav-link{
+  color: white;
+}
+
+#thenavbar .navbar-text{
+  color: white;
+}
+
+#thenavbar .nav-link:hover{
+  color: #FEC938;
+
+}
+
+#thenavbar .navbar-brand{
+  color: #FEC938;
+  font-size:1.4rem;
+  font-weight: 300;
+  font-family: Quicksand, sans-serif;
+
+}
+
+#thenavbar{
+  font-size:1.2rem;
+  font-weight: 300;
+  /* background: rgba(0, 0, 0, 0); */
+}
+
+.navbar.scrolled{
+  background: black;
+}
+#fonthighlight span{
+  color: #FEC938;
+}
+
+h1{
+  font-family: Quicksand, sans-serif;
+}
+h2{
+  font-family: Quicksand, sans-serif;
+  font-weight:400;
+}
+p{
+  font-family: Raleway, sans-serif;
+}
+
+a{
+  font-family: Quicksand, sans-serif;
+}
+
+span{
+  font-family: Quicksand, sans-serif;
+}
+
+.img{
+  max-height: auto;
+
+}
+
+
+@media(max-width:1200px){
+
+}
